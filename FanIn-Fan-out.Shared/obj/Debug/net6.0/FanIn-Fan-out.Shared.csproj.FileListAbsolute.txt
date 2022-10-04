@@ -1,0 +1,12 @@
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\bin\Debug\net6.0\FanIn-Fan-out.Shared.deps.json
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\bin\Debug\net6.0\FanIn-Fan-out.Shared.dll
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\bin\Debug\net6.0\FanIn-Fan-out.Shared.pdb
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.csproj.AssemblyReference.cache
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.AssemblyInfoInputs.cache
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.AssemblyInfo.cs
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.dll
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\refint\FanIn-Fan-out.Shared.dll
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\FanIn-Fan-out.Shared.pdb
+C:\Users\sdioum\Documents\Web-Projects\App-DotNet\CodeMazeGuides\FanIn-Fan-out\FanIn-Fan-out.Shared\obj\Debug\net6.0\ref\FanIn-Fan-out.Shared.dll
