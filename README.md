@@ -76,7 +76,7 @@ In this project, we have implemented a monitor that allows us to follow the exec
 2. example of running tasks in parallel with the monitor interface.
 
 ## Documentation
-
+* [Durable Functions](https://github.com/Azure/azure-functions-durable-extension)
 * [Fan-out/fan-in Azure Durable Function](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-cloud-backup?tabs=csharp)
 * [DurableFunctionsMonitor.DotNetBackend](https://github.com/scale-tone/DurableFunctionsMonitor/blob/master/durablefunctionsmonitor.dotnetbackend/README.md) _(The monitot for Azure Function with ASP.NET/C#)_
 
